@@ -6,4 +6,6 @@ Link do curso: https://learn.microsoft.com/pt-br/training/paths/get-started-c-sh
 
 Refatoração feita por mim do código original do projeto.
 
+Código original:
+
 ![image](https://github.com/user-attachments/assets/6c4c1e35-39e3-43e5-8630-5f3cb7ec4ea5)
